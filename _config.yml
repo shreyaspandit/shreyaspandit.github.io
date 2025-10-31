@@ -60,14 +60,14 @@ plugins:
 author:
   name   : "Shreyas Pandit"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  # bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://shreyaspandit.github.io"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/shreyaspandit"
 
 footer:
   links:
