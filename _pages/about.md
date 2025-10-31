@@ -1,8 +1,25 @@
 ---
+# _pages/about.md
+
 permalink: /about/
-title: "About"
+title: "About Me"
+layout: single
+author_profile: true
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Welcome to my personal site.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+My name is **[Your Name]** and I am a [Your Role, e.g., "software developer," "data scientist," "engineering student"] based in [Your Location].
+
+I am passionate about [Your Interests, e.g., "building scalable web applications," "exploring machine learning models," "embedded systems"]. This website is where I share my projects and technical articles.
+
+### My Background
+
+I have experience with:
+* Programming Languages: [List languages, e.g., Python, C++, JavaScript]
+* Technologies: [List tech, e.g., React, Docker, PyTorch, AWS]
+* [Another category]
+
+### Contact Me
+
+You can find me on [LinkedIn](https://www.linkedin.com/in/shreyaspandit25/) or see my other projects on [GitHub](https://github.com/shreyaspandit).

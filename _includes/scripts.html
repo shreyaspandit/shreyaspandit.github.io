@@ -1,0 +1,40 @@
+<script>
+window.MathJax = {
+  tex: {
+    inlineMath: [
+      ['$', '$'],        // Look for $...$
+      ['\\(', '\\)']     // Look for \(...\)
+    ],
+    displayMath: [
+      ['$$', '$$'],      // Look for $$...$$
+      ['\\[', '\\]']     // Look for \[...\]
+    ]
+  }
+};
+</script>
+
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+
+<script id="MathJax-script" defer
+        src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+
+<style>
+  /* This part makes the image a cropped circle */
+  .author__avatar img {
+    width: 175px !important;
+    height: 125px !important;
+    object-fit: cover;
+    border-radius: 50% !important;
+
+    /* ADD THESE TWO LINES to remove the theme's border */
+    border: 0 !important;
+    padding: 0 !important;
+  }
+
+  /* This part removes the container's border/shadow */
+  .author__avatar {
+    border: none !important;
+    box-shadow: none !important;
+  }
+</style>
